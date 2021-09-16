@@ -3,4 +3,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=surveiior&theme=dark&count_private=true&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surveiior&layout=compact&theme=dark" />
 
-Check out my <a href="surveiior.github.io">page</a>.
+Check out my <a href="https://surveiior.github.io">page</a>.
