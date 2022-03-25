@@ -21,7 +21,7 @@
 <p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=simone-lungarella&theme=dark" title="stats provided by anuraghazra" />
   <img src="https://github-readme-stats.vercel.app/api?username=simone-lungarella&theme=dark&count_private=true&show_icons=true" title="stats provided by anuraghazra"  />
-  <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simone-lungarella&layout=compact&theme=dark" title="stats provided by anuraghazra" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simone-lungarella&layout=compact&theme=dark" title="stats provided by anuraghazra" /> 
 </p>
 
 Have a look at my <a href="https://simone-lungarella.github.io/">webpage</a> to have a deeper look on my profile or to get in touch!
