@@ -1,7 +1,3 @@
-<p align="center" >
-    <img src="https://user-images.githubusercontent.com/39314951/193445534-1d7e9591-47e4-4803-92a1-debc813672f5.png" alt="View website" />
-</p>
-
 # About me
 Hi, I'm Simone. I am a web developer and video game enthusiast. I enjoy building web apps using React and publishing them on GitHub Pages. I also love developing backends using Java and Spring Framework, which I use to feed my React Single Page Applications and make them more interesting.
 
