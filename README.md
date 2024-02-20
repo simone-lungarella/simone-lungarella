@@ -5,8 +5,11 @@ ___
 
 <p>
   <img src="https://img.shields.io/badge/Java-EE383D?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-FF4408?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-0EB054?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-FF4408?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05030?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-099b38?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=untylogoColor=white" />
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=simone-lungarella&show_icons=true&icon_color=FCD34D&text_color=808080&bg_color=ffffff00&title_color=FCD34D&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
