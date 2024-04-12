@@ -15,6 +15,6 @@ ___
 ![](https://github-readme-stats.vercel.app/api?username=simone-lungarella&show_icons=true&icon_color=FCD34D&text_color=808080&bg_color=ffffff00&title_color=FCD34D&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&rank_icon=github)
 ![](https://github-readme-stats-simone-lungarella.vercel.app/api/top-langs/?username=simone-lungarella&show_icons=true&icon_color=FCD34D&text_color=808080&hide_title=true&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true&langs_count=12&layout=compact&cache_seconds=86400)
 
-I'm currently learning: <a href="https://github.com/hoppscotch/hoppscotch">Hoppscotch</a> to automate end-to-end tests and keep designing Cow Defenders. If you want to follow my work as a game developer, check out the organization: <a href="https://github.com/StampedeStudios">Stampede Games</a>.
+I'm currently learning <a href=https://www.blender.org">Blender</a> and designing Cow Defenders. If you want to follow my work as a game developer, check out the organization: <a href="https://github.com/StampedeStudios">Stampede Games</a>.
 
 _cheers_.
