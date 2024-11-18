@@ -18,7 +18,7 @@
 I'm a Java developer mainly focused on healthcare IT solutions in Italy. Working fully remote at [IBM](https://www.ibm.com/us-en) as a consultant.
 
 ### I enjoy designing and developing video games.
-If you want to follow my work as a game developer, check out <a href="https://github.com/StampedeStudios">Stampede Games</a> and give a look at the game we are currently developing: <a href="https://github.com/StampedeStudios/star-knight-gd">Star Knight</a>.
+If you want to follow my work as a game developer, check out <a href="https://github.com/StampedeStudios">Stampede Games</a> and give a look at the game we are currently developing: <a href="https://github.com/StampedeStudios/sum-zero">Sum Zero</a>.
 
 
 _cheers_.
