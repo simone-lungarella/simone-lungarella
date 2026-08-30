@@ -6,4 +6,7 @@ I'm a Backend Developer mainly focused on healthcare IT solutions in Italy. Work
 ### I enjoy designing and developing video games.
 If you want to follow my work as a game developer, check out <a href="https://github.com/StampedeStudios">Stampede Games</a> and give a look at the game we recently published on Play Store: <a href="https://play.google.com/store/apps/details?id=it.stampede.sumzero">Sum Zero</a>.
 
+### Current project
+Currently not working on any side project, but sometime I post some totally missable articles on my [personal blog](https://simone-lungarella.github.io/).
+
 _cheers_.
